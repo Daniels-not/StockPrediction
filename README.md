@@ -52,7 +52,3 @@ Make sure to replace `your_app_name.py` with the actual name of your Streamlit a
 - 🥤: Forecast Components
 - 🔃: Loading Data
 - 🧭: Loading Data Completed
-
-```
-
-In this version, I've added a section for installing dependencies using the requirements.txt file and included a link to each dependency's official documentation. Please replace `your_app_name.py` with the actual name of your Streamlit app file.
