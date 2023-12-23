@@ -1,7 +1,6 @@
-markdown
 # Stock Predictions App 🔀
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](https://github.com/Daniels-not/StockPrediction/blob/main/images/index%20%C2%B7%20Streamlit%20(1).png)
 
 This Streamlit app enables users to make stock predictions using the Prophet library. It provides an interactive interface for selecting a stock dataset, adjusting the prediction duration, and visualizing both raw and forecasted data.
 
